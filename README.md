@@ -37,9 +37,9 @@ Altere o caminho predefinido que está no código, para o caminho correto em que
 
 
 
-# Licence and copyright
+# © Licence and copyright
 Lázaro José Galdino de Souza
 
 lazarojgsouza@gmail.com
 
-https://www.behance.net/lazarogaldino
+Portifólio de design gráfico: https://www.behance.net/lazarogaldino
