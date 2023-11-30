@@ -6,9 +6,9 @@ NEXLINK TECHNOLOGIES READ-ME
 
 **#English**
 
-On line 181, adjust the path according to where the document is
+On line 181, adjust the path according to where the document is in the system.
 
 
 **#Português**
 
-Na linha 181, ajuste o caminho de acordo com onde está a planilha.
+Na linha 181, ajuste o caminho de acordo com onde está a planilha no sistema.
