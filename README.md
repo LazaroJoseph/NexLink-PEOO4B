@@ -1,4 +1,6 @@
 # NEXLink TECHNOLOGIES - Programa de cadastramento de pessoas
+![Logo](https://github.com/LazaroJoseph/NexLink-PEOO4B/blob/main/assets/NexLink_LOGO_Addapt.png)
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LazaroJoseph/NexLink-PEOO4B/blob/main/LICENSE)
 # Sobre o projeto
 
