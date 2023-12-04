@@ -29,11 +29,21 @@ Para você conseguir executar o código corretamente, certifique-se de ter baixa
 de bibliotecas mencionados anteriormente, além disso, o código em .py e a pasta IMAGENS-ICONES devem estar no mesmo local.
 
 ## Altere o caminho nesta parte do código
-Para abrir corretamente o local onde será executada a planilha, encontre:
+1. Para abrir corretamente o local onde será executada a planilha, encontre:
+2. Também instale:
 
 ```bash
+#1.
     def executar_planilha(self):
         caminho_arquivo_planilha = "D:/Users/LAZARO-PC/Desktop/Pastas/IFRN/IF - PEOO 2023/PROJETO_4B_2023./dados_clientes.xlsx"
+
+#2. No terminal, execute:
+    pip install customtkinter
+    pip install packaging
+    pip install pandas
+    pip install openpyxl
+    pip install pillow
+    pip install datetime
 ```
 Altere o caminho predefinido que está no código, para o caminho correto em que a planilha foi criada no seu computador.
 
